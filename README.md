@@ -53,5 +53,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 - The project was developed as an assignment to practice array manipulation, referencing objects, and implementing the Weighted UnionFind algorithm.
 
 ---
-
-Feel free to customize this README based on the specific details and conventions of your project.
