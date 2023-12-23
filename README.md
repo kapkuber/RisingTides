@@ -40,12 +40,6 @@ The RisingTides project is an assignment that explores the effects of rising sea
 4. **Testing**
    - Utilize all provided input files for testing various methods in the project. Each input file contains information about the grid size, water sources, and terrain heights.
 
-## Contributing
-If you would like to contribute to the project, please follow these guidelines:
-- Fork the repository.
-- Create a new branch for your feature or bug fix.
-- Make changes and submit a pull request.
-
 ## License
 This project is licensed under the [MIT License](LICENSE.md).
 
